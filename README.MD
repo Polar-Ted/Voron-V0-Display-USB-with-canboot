@@ -104,6 +104,6 @@ python3 ~/CanBoot/scripts/flash_can.py -f ~/klipper/out/klipper.bin -d /dev/seri
 
 ### Re-Flashing new Klipper builds after Canboot and klipper has been installed
 
-- Repeat the [Compile Klipper Firmware steps](). 
+- Repeat the [Compile Klipper Firmware steps](./README.MD#compile-klipper-firmware). 
  
 
